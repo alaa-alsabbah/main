@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import '../App.css';
 
 const articles = [
-  {
+  { 
     title: 'Tech: AI is Reshaping the Future',
     description: 'From automation to creativity, AI is taking center stage.',
   },
